@@ -7,7 +7,7 @@ function App() {
       style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
     >
       <h2>Wellcome to my Lab</h2>
-      <p>My first React app</p>
+      <p>Nguyễn Ngọc Duy - QE170221</p>
     </div>
   );
 }
